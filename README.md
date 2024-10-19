@@ -1,0 +1,1 @@
+# SC4001_Group_Assignment_Deep_Learning_for_Protein_Structure_Prediction
